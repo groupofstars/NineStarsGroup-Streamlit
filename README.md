@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Nine Stars Group's AI agents
 
 A simple Streamlit app template for you to modify!
 
